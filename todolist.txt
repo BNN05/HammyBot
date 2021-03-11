@@ -2,7 +2,9 @@ Idée a ajoutez :
     - queue
     - Annonce note
     - ?ptr donne un patch ptr ( ameliorer)
-    - ?dance met une dance d'un perso overwatch au hasard
     - ?help avec possibilité de args pour avoir desc d'une commande
     - ?cancel pour cancel un mec
     - google api
+    - Cryptage decryptage
+    - json de perm
+    - clever bot
